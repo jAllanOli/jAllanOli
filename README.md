@@ -1,7 +1,7 @@
 ### Hi there 👋, Welcome to my Github Profile
 
 ##
-- 🔧 I’m currently working on my PokeApp.
+- 🔧 I’m currently working on Frontend Mentor Challenges.
 
 - 💡 I’m curious about UI/UX Design and CSS layouts.
 - 📖 I’m currently learning Angular and typeScript.
