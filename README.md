@@ -4,7 +4,7 @@
 - 🔧 I’m currently working on Frontend Mentor Challenges.
 
 - 💡 I’m curious about UI/UX Design and CSS layouts.
-- 📖 I’m currently learning Angular and typeScript.
+- 📖 I’m currently learning React.
 
 ##
 
